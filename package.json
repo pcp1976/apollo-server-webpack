@@ -11,7 +11,7 @@
     "start:server:env": "node --require dotenv/config dist/server"
   },
   "dependencies": {
-    "apollo-server": "2.5.0",
+    "apollo-server": "2.14.2",
     "graphql": "14.3.0"
   },
   "devDependencies": {
